@@ -1,6 +1,6 @@
-#include<iostream>
-using namespace std;
-int main(){
+
+include<iostream>
+using namespace std;int main(){
     // int a=35;
     // // if(a>=35){
     // //     cout<<"pass";
